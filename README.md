@@ -23,7 +23,7 @@
   
 ![LaisPerini GitHub stats](https://github-readme-stats.vercel.app/api?username=LaisPerini&theme=omni&show_icons=true)
 
-<p align="right"><strong> Visitas</strong> a partir de 01•06•23 :detective: <br>
+<p align="left"><strong> Visitas</strong> a partir de 01•06•23 :detective: <br>
 <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/LaisPerini/count.svg" />
+   <img alingn="left" src="https://profile-counter.glitch.me/LaisPerini/count.svg" />
 </p>

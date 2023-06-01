@@ -24,4 +24,5 @@
 <hr/>
 <p align="center">  
 </p>
+
 ![LaisPerini GitHub stats](https://github-readme-stats.vercel.app/api?username=LaisPerini&theme=omni&show_icons=true)

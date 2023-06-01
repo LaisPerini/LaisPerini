@@ -1,5 +1,5 @@
 ### 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=4998&pause=1000&color=F7F7F7&center=falso&vCenter=falso&repeat=verdadeiro&width=430&lines=Ol%C3%A1+%F0%9F%A4%93" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1000&color=F7F7F7&center=falso&vCenter=falso&repeat=verdadeiro&width=430&lines=Ol%C3%A1+%F0%9F%98%84)](https://git.io/typing-svg)
 
 
 <p align="center">

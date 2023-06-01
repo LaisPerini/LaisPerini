@@ -1,5 +1,8 @@
 ### Olá, eu sou a Lais Perini 🤓
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=🖖+iaeEE!+...Sou+Leonardo+Alves+;Instrutor+e+Programador+há+9+anos...;Aqui+vc+vai+encontrar+alguns+projetos+e+estudos;Espero+que+algum+te+ajude!;Fique+à+vontade!;Puxe+uma+cadeira+e+sente-se+no+chão!+:%29)](https://git.io/typing-svg)
+<p align="justify" fontsize="8">
+
 <p align="center">
                  &nbsp; &nbsp; 👩🏼‍🎓 Ciência de Dados | Análise e Desenvolvimento de Sistemas &nbsp;
   </p> 

@@ -1,6 +1,6 @@
-### Olá, eu sou a Lais Perini 🤓
+### 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=4998&pause=1000&color=F7F7F7&center=falso&vCenter=falso&repeat=verdadeiro&width=430&lines=Ol%C3%A1+%F0%9F%A4%93" alt="Typing SVG" /></a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=14&duration=4998&pause=1000&color=F7F7F7&center=falso&vCenter=falso&repeat=verdadeiro&width=430&lines=Ol%C3%A1" alt="Typing SVG" /></a>
 
 <p align="center">
                  &nbsp; &nbsp; 👩🏼‍🎓 Ciência de Dados | Análise e Desenvolvimento de Sistemas &nbsp;

@@ -8,5 +8,21 @@
 
 ![LaisPerini GitHub stats](https://github-readme-stats.vercel.app/api?username=LaisPerini&theme=omni&show_icons=true)
 
-<img align="center" alt="Ebony SyS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<strong>|| More </strong>Skill's 
+ </p> 
+  <p align="center">
+    <a href="https://leonardoalves.netlify.app/">🚧 Portfolio &nbsp; &nbsp; ||  </a>
+    <a href="https://github.com/Ebony-SYS"> &nbsp; &nbsp; Projetos/Estudos 📦</a>  
+ </p>
+  <p align="center">
+    <a href=https://github.com/Ebony-Full-Stack>🧡 Para alunes da GENERATION BR 🧡</a>
+  </p>
+  <p align="center">
+    <a href=https://github.com/Resilia-por-Ebony>💛 Para alunes da RESILIA EDUCAÇÃO 💛</a>
+  </p>
+   <p align="center">
+    <a href=https://github.com/Clarify-Python>💛 Para alunos da CLARIFY 💛</a>
+  </p>
+</p>
+<hr/>
+<p align="center">  
+  <strong>||Hard </strong>Skill
